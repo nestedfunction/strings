@@ -44,6 +44,9 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 	https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/sortedcombined-knock-dnsrecon-fierce-reconng.txt
 	903KB
 
+[Git All The Payloads! A Collection Of Web Attack Payloads](https://kalilinuxtutorials.com/git-all-the-payloads/)
+
+
 
 
 ### SQL Injection
