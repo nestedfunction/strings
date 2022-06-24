@@ -23,3 +23,9 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 	https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/sortedcombined-knock-dnsrecon-fierce-reconng.txt
 	903KB
 ![image](https://user-images.githubusercontent.com/23691116/174147385-6f1f11af-4c79-4243-92e3-1120d21fcfaa.png)
+
+
+
+### SQL Injection
+[](https://github.com/PenTestical/sqli)
+
