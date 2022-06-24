@@ -47,5 +47,5 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 
 
 ### SQL Injection
-[](https://github.com/PenTestical/sqli)
+(https://github.com/PenTestical/sqli)
 
