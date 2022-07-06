@@ -4,6 +4,9 @@
 
 wip wip
 
+***Disclaimer: I am not an expert. These are just random tidbits I gleaned from trial and error. Consult at your own peril.***
+
+
 You need a lot of patience and a medium-high level of frustration tolerance, cos things can get very fiddly.
 
 
