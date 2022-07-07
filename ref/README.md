@@ -28,6 +28,7 @@
 -----
 
 ##### DHCP Options List:
-IANA: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) Parameters[](https://www.iana.org/assignments/bootp-dhcp-parameters/bootp-dhcp-parameters.xhtml)
+IANA: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) Parameters
+- https://www.iana.org/assignments/bootp-dhcp-parameters/bootp-dhcp-parameters.xhtml
 
 ------
