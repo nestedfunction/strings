@@ -25,3 +25,9 @@
 #### Westpac Test Account Numbers
 - (https://quickstream.westpac.com.au/docs/general/test-account-numbers/)
 
+-----
+
+##### DHCP Options List:
+IANA: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) Parameters[](https://www.iana.org/assignments/bootp-dhcp-parameters/bootp-dhcp-parameters.xhtml)
+
+------
