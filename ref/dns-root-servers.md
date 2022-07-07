@@ -1,3 +1,6 @@
+# DNS Root Servers
+
+
 ```
 $ dig NS .
 ; <<>> DiG 9.11.3-1ubuntu1.2-Ubuntu <<>> NS .

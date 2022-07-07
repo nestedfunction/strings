@@ -1,6 +1,17 @@
-ASCII Encoding Reference
-Your browser will encode input, according to the character-set used in your page.
-The default character-set in HTML5 is UTF-8.
+# ASCII Encoding Reference
+
+Source:(https://www.w3schools.com/tags/ref_urlencode.ASP)
+
+_Note: Potentially incomplete. Unverified_
+
+_TODO: Verifiy and fix formatting_
+
+_"Your browser will encode input, according to the character-set used in your page."_
+
+_"The default character-set in HTML5 is UTF-8."_
+
+
+```
 Character	From Windows-1252	From UTF-8
 space	%20	%20
 !	%21	%21
@@ -226,10 +237,14 @@ z	%7A	%7A
 ý	%FD	%C3%BD
 þ	%FE	%C3%BE
 ÿ	%FF	%C3%BF
+```
 
-URL Encoding Reference
-The ASCII control characters %00-%1F were originally designed to control hardware devices.
-Control characters have nothing to do inside a URL.
+## URL Encoding Reference
+
+_"The ASCII control characters %00-%1F were originally designed to control hardware devices."_
+_"Control characters have nothing to do inside a URL."_
+
+```
 ASCII Character	Description	URL-encoding
 NUL	null character	%00
 SOH	start of header	%01
@@ -263,7 +278,8 @@ FS	file separator	%1C
 GS	group separator	%1D
 RS	record separator	%1E
 US	unit separator	%1F
-❮ PreviousNext ❯
 
-From <https://www.w3schools.com/tags/ref_urlencode.ASP> 
+```
+
+
 
