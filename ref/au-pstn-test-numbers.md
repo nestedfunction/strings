@@ -1,5 +1,6 @@
 # Australian PSTN Carrier Test Numbers
 Source:(https://www.accesscomms.com.au/ref_testnumb/)
+
 _Note: many numbers deprecated_
 
 _"All test numbers for Telstra begin with 12722. Test numbers for Optus all begin with 12723. There are also a few common test numbers that are used by all carriers"_
@@ -9,11 +10,16 @@ _"All test numbers for Telstra begin with 12722. Test numbers for Optus all begi
 
 ### PSTN Carrier Test Numbers
 #### Test Number	Service
+
+```
 12711	Long distance carrier pre-selection confirmation
 1800 80 1920	Own number RVA
+```
 
 ### Telstra Test Numbers
 #### Test Number	Service
+
+```
 12722 0	CND send status
 12722 123	Own number RVA (old number 19 123)
 12722 199	Ringback (old number 199)
@@ -39,9 +45,13 @@ _"All test numbers for Telstra begin with 12722. Test numbers for Optus all begi
 12722 42210	"Your Telstra call waiting feature is off"
 12722 42211	tone... "Your Telstra call waiting feature is on"
 12722 42212	tone... "Your Telstra call waiting feature is off"
+```
+
 
 ### Optus Test Numbers
 #### Test Number	Service
+
+```
 12723 12	Own Number RVA (old number 127 2311)
 12723 22	1kHz
 12723 99	Ringback
