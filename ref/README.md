@@ -37,3 +37,6 @@ IANA: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) 
 See also: (./mobile-testing.guide.md)
 
 - https://ios.pentestglobal.com/
+
+#### Common API Keys Lookup:
+- https://github.com/streaak/keyhacks

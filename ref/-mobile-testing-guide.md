@@ -2,6 +2,14 @@
 
 (LICENSE: Still trying to decide - but not "open-source" for now.)
 
+2022-07-08 17:13
+Version Note
+_Currently Deprecated - On Hold_
+_Refer to alt repo src_
+
+
+-------------------
+
 wip wip
 
 ***Disclaimer: I am not an expert. These are just random tidbits I gleaned from trial and error. Consult at your own peril.***
