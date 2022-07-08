@@ -32,3 +32,8 @@ IANA: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) 
 - https://www.iana.org/assignments/bootp-dhcp-parameters/bootp-dhcp-parameters.xhtml
 
 ------
+
+### Mobile Testing Links
+See also: (./mobile-testing.guide.md)
+
+- https://ios.pentestglobal.com/
