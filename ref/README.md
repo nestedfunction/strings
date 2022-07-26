@@ -40,3 +40,6 @@ See also: (./mobile-testing.guide.md)
 
 #### Common API Keys Lookup:
 - https://github.com/streaak/keyhacks
+
+
+[Open Cookie Database](https://github.com/jkwakman/Open-Cookie-Database/blob/master/open-cookie-database.csv)
