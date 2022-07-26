@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <!-- <link rel="stylesheet" type="text/css" href="css/englishway.css"> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- for compatibility with TAFE Edge browsers -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>An Experimentation in CSS3 Animations</title>
+    <style type="text/css">
+    html {
+        font-size: 62.5%;
+    }
+
+
+    html * {
+        box-sizing: border-box;
+    }
+
+    body {
+        background-color: #000;
+
+        /*color: #F0F7FF;
+        opacity: 0.8;*/
+
+        color: #C0C5CC;
+        font-size: 3rem;
+        display: block;
+        /*height: 768px;*/
+        /*vertical-align: center;
+        text-align: center;
+        /*margin: 50% 0 0 50%;
+        width: 100%;*/
+
+        position: fixed;
+        top: 60%;
+        left: 50%;
+        font-family: "Times New Roman", Times, serif;
+    }
+
+
+    .heartbeat {
+        animation-name: heartbeat;
+        animation-duration: 3.5s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+    }
+
+
+    @keyframes heartbeat {
+        0% {
+            /*color: ;*/
+            opacity: 0;
+        }
+
+        10% {
+            opacity: 0.8;
+        }
+
+        /*50% {color: blue;}*/
+
+        20% {
+            opacity: 0;
+        }
+
+        33% {
+            opacity: 0.8;
+        }
+
+        90% {
+            opacity: 0;
+            /*color: ;*/
+            /*opacity: 0.8;*/
+        }
+    }
+
+
+    .breathe {
+        /*width: 100px;
+        height: 100px;*/
+        /*background-color: red;*/
+        /*position: relative;*/
+
+        /*-webkit-animation-name: example; */
+        /* Safari 4.0 - 8.0 */
+        /*-webkit-animation-duration: 4s; */
+        /* Safari 4.0 - 8.0 */
+        /*-webkit-animation-iteration-count: 3; */
+        /* Safari 4.0 - 8.0 */
+        /*    -webkit-animation-direction: reverse; */
+        /* Safari 4.0 - 8.0 */
+
+        animation-name: breathe;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        color: red;
+    }
+
+    /* Safari 4.0 - 8.0 */
+    /*@-webkit-keyframes example {
+        0%   {background-color:red; left:0px; top:0px;}
+        25%  {background-color:yellow; left:200px; top:0px;}
+        50%  {background-color:blue; left:200px; top:200px;}
+        75%  {background-color:green; left:0px; top:200px;}
+        100% {background-color:red; left:0px; top:0px;}
+    }*/
+
+    /* Standard syntax */
+    @keyframes breathe {
+        0% {
+            color: #C0C5CC;
+            /*visibility: hidden;*/
+            opacity: 0;
+        }
+
+        /*50% {color: blue;}*/
+
+        33% {
+            color: red;
+        }
+
+        100% {
+            color: #C0C5CC;
+        }
+
+        /*from {}
+            to {color: red;}
+            */
+        /*25%  {background-color:purple; left:0px; top:0px;}*/
+        /*25%  {background-color:yellow; left:200px; top:0px;}*/
+        /*50%  {background-color:blue; left:200px; top:200px;}*/
+        /*75%  {background-color:green; left:0px; top:200px;}*/
+        /*100% {background-color:red; left:0px; top:0px;}*/
+    }
+    </style>
+</head>
+
+<body>
+    <div id="quote">
+        <i><span class="heartbeat">&ldquo;...hanging on in </span><span class="breathe">quiet desperation</span><span class="heartbeat"> is the English way...&rdquo;</span></i>
+    </div>
+</body>
+
+</html>
