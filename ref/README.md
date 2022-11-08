@@ -46,3 +46,6 @@ See also: (./mobile-testing.guide.md)
 
 
 [Open Cookie Database](https://github.com/jkwakman/Open-Cookie-Database/blob/master/open-cookie-database.csv)
+https://ppn.snovvcrash.rocks/
+hacktricks.xyz
+
