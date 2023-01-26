@@ -1,5 +1,9 @@
 # Reference Tables/Lookups etc
 
+
+[List of User Agent Strings](https://useragentstring.com/pages/useragentstring.php)
+
+
 ## Useful Reference Datasets
 
 
